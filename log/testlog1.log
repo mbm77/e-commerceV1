@@ -1,0 +1,14 @@
+********** verifyRegisteringAnAccountWithMandatoryFields started *************
+********** verifyRegisteringAnAccountWithMandatoryFields ended *************
+********** verifyRegisteringAnAccountWithMandatoryFields started *************
+********** verifyRegisteringAnAccountWithMandatoryFields ended *************
+********** verifyRegisteringAnAccountWithAllFields started *************
+********** verifyRegisteringAnAccountWithAllFields ended *************
+********** verifyRegisteringAccountWithExistingEmailAddress started *************
+********** verifyRegisteringAccountWithExistingEmailAddress ended *************
+********** verifyRegisteringAccountWithoutFillingAnyDetails started *********
+********** verifyRegisteringAccountWithoutFillingAnyDetails ended *********
+verifyRegisteringWithFilledFormWithoutClickingCheckBox started
+verifyRegisteringWithFilledFormWithoutClickingCheckBox ended
+verifyRegisteringNoFilledFormWithClickingPrivacyPolicy started
+verifyRegisteringNoFilledFormWithClickingPrivacyPolicy ended

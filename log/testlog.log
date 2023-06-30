@@ -1,0 +1,14 @@
+2023-06-30 13:46:32,226 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - ********** verifyRegisteringAnAccountWithMandatoryFields started *************
+2023-06-30 13:46:34,204 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - ********** verifyRegisteringAnAccountWithMandatoryFields ended *************
+2023-06-30 14:08:27,912 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - ********** verifyRegisteringAnAccountWithMandatoryFields started *************
+2023-06-30 14:08:29,812 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - ********** verifyRegisteringAnAccountWithMandatoryFields ended *************
+2023-06-30 14:08:54,904 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - ********** verifyRegisteringAnAccountWithAllFields started *************
+2023-06-30 14:08:56,918 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - ********** verifyRegisteringAnAccountWithAllFields ended *************
+2023-06-30 14:09:11,476 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - ********** verifyRegisteringAccountWithExistingEmailAddress started *************
+2023-06-30 14:09:40,915 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - ********** verifyRegisteringAccountWithExistingEmailAddress ended *************
+2023-06-30 14:09:56,858 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - ********** verifyRegisteringAccountWithoutFillingAnyDetails started *********
+2023-06-30 14:09:57,660 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - ********** verifyRegisteringAccountWithoutFillingAnyDetails ended *********
+2023-06-30 14:10:08,434 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - verifyRegisteringWithFilledFormWithoutClickingCheckBox started
+2023-06-30 14:10:10,200 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - verifyRegisteringWithFilledFormWithoutClickingCheckBox ended
+2023-06-30 14:10:25,296 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - verifyRegisteringNoFilledFormWithClickingPrivacyPolicy started
+2023-06-30 14:10:26,251 - com.tutorialsninja.qa.testcases.RegisterTest -INFO - verifyRegisteringNoFilledFormWithClickingPrivacyPolicy ended
