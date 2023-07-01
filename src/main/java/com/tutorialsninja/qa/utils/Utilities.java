@@ -2,7 +2,6 @@ package com.tutorialsninja.qa.utils;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -23,10 +22,10 @@ public class Utilities {
 		return timestampEmail;
 	}
 
-	public static Object[][] getTestDataFromExcel(String sheetName) {
+	public static Object[][] getTestDataFromExcel(String sheetName) throws IOException {
 		File excelFile = new File(System.getProperty("user.dir")
 				+ "\\src\\main\\java\\com\\tutorialsninja\\qa\\testdata\\TutorialsNinjaTestData.xlsx");
-		FileInputStream fis;
+		FileInputStream fis = null;
 		XSSFWorkbook workbook = null;
 		
 		try {
@@ -58,12 +57,14 @@ public class Utilities {
 			case BOOLEAN:
 				data[i][j] = cell.getBooleanCellValue();
 				break;
+			default:
+				break;
 
 			}
 		}
 	}
-//		workbook.close();
-//		fis.close();
+		//sworkbook.close();
+		//fis.close();
 		return data;
 
 	}

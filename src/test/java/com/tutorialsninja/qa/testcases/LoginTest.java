@@ -1,6 +1,7 @@
 package com.tutorialsninja.qa.testcases;
 
-import org.openqa.selenium.By;
+import java.io.IOException;
+
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
@@ -48,7 +49,7 @@ public class LoginTest extends Base{
 	}
 	
 	@DataProvider(name="validCredentialsSupplier")
-	public Object[][] supplyTestData(){
+	public Object[][] supplyTestData() throws IOException{
 		Object[][] data = Utilities.getTestDataFromExcel("Login");
 		return data;
 	}
