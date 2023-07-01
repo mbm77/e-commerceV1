@@ -14,7 +14,7 @@ import com.tutorialsninja.qa.pages.AccountSuccessPage;
 import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.RegisterPage;
 import com.tutorialsninja.qa.utils.Utilities;
-
+//This is RegisterTest class
 public class RegisterTest extends Base {
 	WebDriver driver;
 	RegisterPage registerPage;
