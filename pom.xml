@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org</groupId>
-	<artifactId>HybridTestNGFramework</artifactId>
+	<artifactId>e-commerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>HybridTestNGFramework</name>
+	<name>e-commerce</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
