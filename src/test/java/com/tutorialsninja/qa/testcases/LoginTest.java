@@ -15,6 +15,7 @@ import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.LoginPage;
 import com.tutorialsninja.qa.utils.Utilities;
 
+//This LoginTest class comment
 public class LoginTest extends Base{
 	WebDriver driver;
 	LoginPage loginPage;
